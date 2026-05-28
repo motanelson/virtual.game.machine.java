@@ -28,3 +28,9 @@ def inputs(title:str="input?",text:str="wask?",backgrounds:str="black",foregroun
     apps=myapps(root,title,text,backgrounds,foregrounds)
     root.mainloop()
     return rets
+
+
+
+
+a=inputs(title="input",text="get me x?")
+print(a)
