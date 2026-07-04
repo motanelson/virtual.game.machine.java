@@ -1,1 +1,1 @@
-object script 86 dump
+virtual game cube machine
